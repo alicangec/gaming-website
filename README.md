@@ -1,18 +1,23 @@
+# My Website 🌍
 
-<a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN" target="_blank">
-  <img src="./img/thumbnail.png" alt="Thumbnail"/>
-</a>
+Welcome to my gaming website project! This project showcases my work, skills, and capabilities with CSS, HTML and JavaScript.
 
+![Redefine Gaming](img/cover-zentry.png)
+
+## 🔥 Features
+- Responsive design for Desktop and 650px< screens
+- Modern UI with HTML, CSS, and JavaScript
+- Animations and Hover effects
+- Deployment on "GitHub Pages"
 
 ---
-## Introduction: 
-#### 🚀 Build a Modern Gaming Website with HTML , CSS and JS 🌟
 
-#### Unleash your creativity and build an Awwwards-Winning Gaming Website using just HTML, CSS, and JavaScript! This step-by-step tutorial will guide you through crafting a modern web design that captivates with scroll animations, parallax effects, and smooth scrolling. Master CSS Grid and Flexbox to create a responsive layout, while integrating stunning text gradients, hover effects, and neon aesthetics for that perfect dark theme. Learn how to optimize animation keyframes, add interactive elements, and implement CSS transitions for a seamless user experience (UX). With tips on media queries, cross-browser compatibility, and SEO optimization, you’ll craft a visually stunning, minimalist UI inspired by Awwwards standards. Whether you're showcasing a gaming portfolio or exploring creative coding, this tutorial is your gateway to modern web development success!
+## 🚀 Live Demo
+[CLICK!](https://alicangec.github.io/gaming-website/)
 
+## 📌 How to Use
+1. Clone the repository:
+
+'git clone https://github.com/alicangec/gaming-website.git'
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN">
-  <img src="./img/youtube-ligo.png" alt="youtube"/>
-</a>
